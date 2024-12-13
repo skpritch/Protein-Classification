@@ -19,4 +19,4 @@ Amino Acid (AA), Peptide Sequence, Protein, ReLU, Cross Entropy Loss, Softmax, L
 - Protein_Classification.ipynb: Code to run and evaluate models classifying proteins by class
 - Scripts: Contains Python scripts to combine UniProt metadata, scrape structural PDB files, and balance the dataset
 - Results: Graphics produced by scripts, used in the paper
-- Data: Full metadata files from UniProt, balanced and simplified data csv files. .
+- Data: Full metadata files from UniProt, balanced and simplified data CSV files. Structural PDB files exceeded upload space for GitHub.
