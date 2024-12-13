@@ -14,3 +14,7 @@ Accurate protein classification remains one of the greatest challenges—and opp
 
 ## Keywords
 Amino Acid (AA), Peptide Sequence, Protein, ReLU, Cross Entropy Loss, Softmax, Logistic Regression, Random Forest, Gradient Boost, Neural Network, Recurrent Neural Network (RNN), Long-Short-Term Memory (LSTM)  
+
+## File System
+- Protein_Classification.ipynb: Code to run and evaluate models classifying proteins by class
+- 
